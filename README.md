@@ -100,6 +100,6 @@ Tech Stack: Spring Boot | Spring Boot JPA | Hibernate | MySQL | Swagger | Lombok
 
 
 # The ER Diagram of the project:
-<a href="https://ibb.co/BgZXWnS"><img style="width: 1000px;" src="https://ibb.co/J5qdn66" alt="Screenshot-2022-12-02-at-9-30-20-PM" border="0"></a>
+<a href="https://ibb.co/J5qdn66"><img style="width: 1000px;" src="https://ibb.co/J5qdn66" alt="er diagram" border="0"></a>
 ### Thank You for your Presence
 [![SwaggerUI](https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif)](https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif)
